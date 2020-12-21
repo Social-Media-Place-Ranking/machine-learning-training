@@ -1,6 +1,6 @@
 # Machine Learning Training
 
-##Introduction
+## Introduction
 
 The code in this repository aims to prepare the data, explore and engineer it, and create a machine learning model to predict its labels for future inputs. 
 There's 2 Jupyter Notebooks in this repository: 
